@@ -28,7 +28,7 @@ Currently, two official plugins are available:
 
   ![Home Page](public/localhost_5173_.png)
 
-![Home Page](public/localhost_5173_ (2).png)
+![citylist](public/citylist1.png)
 
 
 
