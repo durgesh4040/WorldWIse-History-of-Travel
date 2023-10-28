@@ -1,6 +1,6 @@
 # 🌍  WorldWise-History-of-Travel 🌐
 
-Check out the live version of the project [here]( https://worldwise-history-of-tra-10025.web.app).
+Check out the live version of the project [here](https://worldwise-history-of-tra-10025.web.app/).
 
 
 Explore the world's travel history and get hands-on with cities, countries, and your own personal journey on our interactive map! 🗺️
