@@ -30,6 +30,8 @@ Currently, two official plugins are available:
 
 ![citylist](public/citylist1.png)
 
+![cityform](public/cityform.png)
+
 
 
 
