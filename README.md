@@ -1,13 +1,12 @@
 # 🌍  WorldWise-History-of-Travel 🌐
-
-Check out the live version of the project [here](https://worldwise-history-of-tra-10025.web.app/).
+Welcome to the Worldwise- History -of-Travel Project, a comprehensive full-stack application that allows you to explore and record your travel history. Let's dive into the key features of our exciting project:
 
 
 Explore the world's travel history and get hands-on with cities, countries, and your own personal journey on our interactive map! 🗺️
 
-## 🚀 Key Features
+##  Frontend - React 🚀
 
-1. 🗺️ **Map with Your Mark:** Use our map to mark the places you've been, adding your personal touch to the world's travel history.
+1. 🗺️ **Interactive Map:** Personalize your global travel history by marking the places you've visited on our interactive map..
 
 2. 📆 **Journey through Time:** Discover travel stories from different times and learn about the adventures of explorers and travelers.
 
@@ -18,16 +17,16 @@ Explore the world's travel history and get hands-on with cities, countries, and 
 5. 🔐 **Simple Authentication:** Test features safely with fake authentication. No real usernames or passwords needed.
 
 
-Join our Travel History Project for a fun and educational exploration of the world's travel past. Whether you're a history enthusiast, an explorer, or just curious, come along for the ride! 🌏🚶‍♂️🔍🔐
+##  Backend - Spring Boot 🛠️
 
-## React + Vite
+1. 🔐 **JWT Token Authentication :** Enhance the security of user data with JWT token authentication, preventing unauthorized access and ensuring a safe travel 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+2. 🌍 **API for Travel List Operations :** We've created a powerful API enabling you to seamlessly save, update, and delete travel entries. Interact effortlessly with your travel data to keep it up-to-date.
 
-Currently, two official plugins are available:
+3. 🌆 **MySQL Database Integration:**  Enjoy persistent and reliable data storage with a MySQL database. Your travel history is securely stored, ready for future explorations.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
 
   ![Home Page](public/localhost_5173_.png)
 
