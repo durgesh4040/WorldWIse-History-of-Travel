@@ -27,7 +27,6 @@ Explore the world's travel history and get hands-on with cities, countries, and 
 
 
 
-
   ![Home Page](public/localhost_5173_.png)
 
 ![citylist](public/citylist1.png)
